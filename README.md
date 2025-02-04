@@ -1,3 +1,8 @@
+# Updates:
+
+This is a modified version to support systems without Nvidia GPUs, and newer torch versions.
+
+
 # LieTorch: Tangent Space Backpropagation
 
 

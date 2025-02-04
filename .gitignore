@@ -11,4 +11,4 @@ runs
 a.out
 cache
 *.g2o
-
+*.so
